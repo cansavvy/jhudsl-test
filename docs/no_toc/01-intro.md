@@ -3,6 +3,7 @@
 
 # Introduction
 
+Testing this!
 
 ## Motivation
 
@@ -32,7 +33,7 @@ devtools::session_info()
 ##  collate  en_US.UTF-8                 
 ##  ctype    en_US.UTF-8                 
 ##  tz       Etc/UTC                     
-##  date     2024-03-08                  
+##  date     2024-03-12                  
 ## 
 ## ─ Packages ───────────────────────────────────────────────────────────────────
 ##  package     * version date       lib source                            
